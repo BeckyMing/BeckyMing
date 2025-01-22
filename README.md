@@ -9,11 +9,9 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 ## 🧑‍💻 About Me
 I'm a dedicated developer who enjoys turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring the outdoors or reading a good book.
 
-- 🔭 I’m currently working on: **[Awesome Project](https://github.com/BeckyMing/awesome-project)**
-- 🌱 I’m currently learning: **Docker, Kubernetes, and Cloud Computing**
-- 👯 I’m looking to collaborate on: **Open-source projects**
-- 💬 Ask me about: **Web Development, JavaScript, Python, and Best Coding Practices**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 🌱 I’m currently learning: **Docker, and Cloud Computing**
+- 💬 Ask me about: **Web Development, JavaScript, and Best Coding Practices**
+- 📫 How to reach me: **[luckinMing@outlook.com](mailto:luckinMing@outlook.com)**
 
 ---
 
