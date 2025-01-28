@@ -34,8 +34,8 @@ I'm a dedicated developer who enjoys turning complex problems into simple, beaut
 
 ## 📫 Get In Touch
 
-- **Email**: [your.email@example.com](mailto:LuckinMing@outlook.com)
-- **X**: [@YourTwitterHandle](https://twitter.com/MingMeow233)
+- **Email**: [LuckinMing@outlook.com](mailto:LuckinMing@outlook.com)
+- **X**: [@Mingmeow233](https://twitter.com/MingMeow233)
 
 Feel free to reach out if you want to collaborate on a project or just chat about technology. I'm always open to new opportunities and interesting discussions!
 
