@@ -41,4 +41,19 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 
 ---
 
+
+**Languange:** Html, Css, Java, Kotlin,C#,MySQL
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=LinMieLove&show_icons=true&count_private=true)   
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LinMieLove)   
+
+
+
+</a>
+</p>
+
+---
+
 ### Thanks for visiting my profile! Have a great day! 😊
